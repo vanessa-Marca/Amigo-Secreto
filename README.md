@@ -9,8 +9,11 @@ O Amigo Secreto é um sistema interativo que facilita a realização do tradicio
 <center>Os jogadores inserem seus nomes na aplicação.
 O sistema permite adicionar participantes.</center>
 
-<center>Sorteio Automático:</center>
-<center>Após a inserção dos nomes, a aplicação realiza um sorteio aleatório.</center>
+<div align="center">
+  <h3>Sorteio Automático</h3>
+  <p>Após a inserção dos nomes, a aplicação realiza um sorteio aleatório.</p>
+</div>
+
 
 # 🛠 Tecnologias
 <center>As seguintes ferramentas foram usadas na construção do projeto:</center>
