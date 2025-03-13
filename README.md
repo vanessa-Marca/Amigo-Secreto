@@ -4,16 +4,16 @@
 O Amigo Secreto é um sistema interativo que facilita a realização do tradicional jogo entre amigos, colegas de trabalho. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, proporcionando uma interface intuitiva e uma experiência dinâmica para os participantes.
 
 #funcionalidades
-Cadastro dos Participantes:
+<center>Cadastro dos Participantes:</center>
 
-Os jogadores inserem seus nomes na aplicação.
-O sistema permite adicionar participantes.
+<center>Os jogadores inserem seus nomes na aplicação.
+O sistema permite adicionar participantes.</center>
 
-Sorteio Automático:
-Após a inserção dos nomes, a aplicação realiza um sorteio aleatório.
+<center>Sorteio Automático:</center>
+<center>Após a inserção dos nomes, a aplicação realiza um sorteio aleatório.</center>
 
 # 🛠 Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
+<center>As seguintes ferramentas foram usadas na construção do projeto:</center>
 
 - [HTML]
 - [CSS]
