@@ -18,6 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS]
 - [JavaScript]
 
- <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1> 
+## 🚀 Acesse o projeto online  
+[Clique aqui para acessar](https://amigo-secreto-one-beryl.vercel.app/)  
+
+
